@@ -1,0 +1,11 @@
+[package]
+name = "rar2zip"
+version = "0.1.0"
+authors = ["keringar <git@keringar.xyz>"]
+
+[dependencies]
+unrar = "0.4.3"
+zip = "0.3.0"
+clap = "2.29.2"
+temporary = "0.6.3"
+walkdir = "2.0.1"
